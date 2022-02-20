@@ -28,7 +28,7 @@ useEffect (() => {
     <div className="accordion">
         <div onClick = {changeToggle} className="accordion-visible">
             <h2>Accordion open/close</h2>
-            <p>X</p>
+            <p>v</p>
         </div>
 
         <div ref= {refHeight} className={toggle ? 'accordion-toggle animated' : 'accordion-toggle'}
