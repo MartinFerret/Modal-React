@@ -1,11 +1,11 @@
-import Modal from './Components/Modal/Modal.js'
+import Accordion from './Components/Accordion/Accordion.js'
 
 
 function App() {
   return (
 
     <>
-    <Modal/>
+    <Accordion/>
     </>
   );
 }
